@@ -25,7 +25,7 @@ The goal is to extract **insights** that can help identify trends like customer 
 | approx_cost(for two people) | Approximate cost for two people |
 | listed_in(type) | Type of restaurant (Buffet, Cafes, Dining, etc.) |
 
-##Insights
+## Insights
 
 - Dining restaurants dominate in popularity and votes.
 
